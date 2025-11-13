@@ -1,6 +1,6 @@
 # StreamDiffusion-TD
 
-Install \n
+Install /n
 1,2
 
 Setting:
