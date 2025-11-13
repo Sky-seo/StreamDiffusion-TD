@@ -6,5 +6,5 @@ Install
 Setting:
 start
 
-0.2.9 - mac
+0.2.9 - mac n\
 0.3.0 - pc
