@@ -1,9 +1,9 @@
 # StreamDiffusion-TD
 
-Install
+Install\
 1,2
 
-Setting:
+Setting:\
 start
 
 0.2.9 - mac \
